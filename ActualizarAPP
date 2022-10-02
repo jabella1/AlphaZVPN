@@ -1,6 +1,6 @@
 {"newVersion": "1.3.2",
  "apkUrl": "https://www.mediafire.com/file/yx8m1ztjqop9w3f/AlphaZVPN(1.3.2).apk/file",
- "versionNotes": "-------------NUEVO-------------\n-Se migraron todos los servidores a Chile, es decir , cuando se conecte a un servidor, quedara con IP de CHILE\n-Se implemento la logica para que el Email-Cuenta registrada, solamente pueda funcionar en el dispositivo en el cual se creo-\n-Se implemento la logica para el control de los usuarios, en caso de estar activada, todo usuario nuevo debera ser registrado manualmente por el desarrollador en la base de datos, se penso de manera que tambien se pueda desactivar remotamente, es decir, si esta desactivada todos los usuarios que se registren pueden acceder a los servidores. \n\mdeveloped by : JuanF.",
+ "versionNotes": "-------------NUEVO-------------\n-Se migraron todos los servidores a Chile, es decir , cuando se conecte a un servidor, quedara con IP de CHILE\n-Se implemento la logica para que el Email-Cuenta registrada, solamente pueda funcionar en el dispositivo en el cual se creo\n-Se implemento la logica para el control de los usuarios, en caso de estar activada, todo usuario nuevo debera ser registrado manualmente por el desarrollador en la base de datos, se penso de manera que tambien se pueda desactivar remotamente, es decir, si esta desactivada todos los usuarios que se registren pueden acceder a los servidores. \n\mdeveloped by : JuanF.",
  "key": "juanfcol",
  "token": "23328f1ac2dbdb41",
  "addHoras": "0"}
