@@ -1,5 +1,5 @@
 {"newVersion": "1.3.1",
- "apkUrl": "https://www.mediafire.com/file/b38dl3w83b9fsdk/JuanFNet(1.2.8).apk/file",
+ "apkUrl": "https://www.mediafire.com/file/96u04fmakxn7v53/AlphaZVPN(1.3.1).apk/file",
  "versionNotes": "-Si el tiempo llega a 0 y vuelve a presionar el botón para comenzar, se le adicionará 8 minutos al tiempo.\n-------------NUEVO-------------\n-Se migraron todos los servidores a Chile, es decir , cuando se conecte a un servidor, quedara con IP de CHILE\n-Se agrego la opción para compartir wifi con los datos que le otorga está aplicacion.\n-Se agrego un apartado en el menu para ver las notas importantes acerca de la aplicacion, las cuales se actualizan remotamente y se optimizaron aspectos internos\n-Se agrego soporte para acceder con Usuario y Contraseña o con TokenID, si en configuraciones el apartado de autentificacion está desactivado, la aplicación conectará con TokenID, en caso de estar activado, pedirá usuario y contraseña.\n\n***Usuario: juanf\n***Contraseña: juanfcol\n\nEste usuario tiene una duración de 30 días y capacidad maxima para 300 conexiones.\n\ndeveloped by : JuanF.",
  "key": "juanfcol",
  "token": "23328f1ac2dbdb41",
