@@ -11,3 +11,10 @@
  "key": "juanfcol",
  "token": "23328f1ac2dbdb41",
  "addHoras": "0"}
+ 
+ {"newVersion": "1.3.5",
+ "apkUrl": "https://www.mediafire.com/file/astaihx9jmfffcg/AlphaZVPN(1.3.5).apk/file",
+ "versionNotes": "-Se implemento la logica para que el Email-Cuenta registrada, solamente pueda funcionar en el dispositivo en el cual se creo\n-Se implemento la logica para el control de los usuarios, en caso de estar activada, todo usuario nuevo debera ser registrado manualmente por el desarrollador en la base de datos, se penso de manera que tambien se pueda desactivar remotamente, es decir, si esta desactivada todos los usuarios que se registren pueden acceder a los servidores.\n-Se implemento un sistema para la correcta actualizacion del estado de la cuenta, antes, si la cuenta se vencia tenia que conectarse a WIFI para poder realizar la actualizacion de los cambios en la base de datos, ahora, asi su cuenta este vencida o no se haya activado se permitira la conexion a internet durante 17 segundos, los suficientes para obtener informacion de la base de datos y asi actualizar el estado de su cuenta.\n-Se optimizo para reducir gasto de energia\n---------------NUEVO----------------\n-Se cambiaron aspectos visuales\n-Se cambio el apartado principal de la aplicacion, ya no tiene que elegir servidor y payload, solamente servidor.\ndeveloped by : JuanF.",
+ "key": "juanfcol",
+ "token": "23328f1ac2dbdb41",
+ "addHoras": "0"}
