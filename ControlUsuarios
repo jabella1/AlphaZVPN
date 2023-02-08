@@ -5,16 +5,8 @@
   "Vencimiento": "30/10/2022"
 },
 {
-  "Correo": "jabella@unicauca.edu.co",
-  "Vencimiento": "7/10/2022"
-},
-{
   "Correo": "juanpereznico2@gmail.com",
   "Vencimiento": "3/9/2022"
-},
-{
-  "Correo": "juanfernandoam@hotmail.com",
-  "Vencimiento": "10/10/2022"
 },
 {
   "Correo": "spidernico2@hotmail.com",
@@ -27,10 +19,6 @@
 {
   "Correo": "davidcjmaps@gmail.com",
   "Vencimiento": "12/10/2022"
-},
-{
-  "Correo": "davama13@hotmail.com",
-  "Vencimiento": "12/10/2024"
 }
 ],
 "Activado": "false",
